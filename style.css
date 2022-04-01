@@ -1,0 +1,21 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    margin-top: 0;
+}
+
+canvas {
+    border: 5px solid rgb(38, 38, 129);
+    box-shadow: 5px 5px 5px black;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+input {
+    height: 30px;
+    width: 500px;
+
+}
